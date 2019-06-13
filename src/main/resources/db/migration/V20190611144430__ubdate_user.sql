@@ -1,0 +1,1 @@
+ALTER TABLE `demo_flyway`.`user` ADD COLUMN `email` VARCHAR(255) NULL AFTER `surname`;
